@@ -1,0 +1,13 @@
+address: https://test-stand.gb.ru
+address_2: https://www.google.ru/
+driver_path: chromedriver.exe
+#browser: chrome
+sleep_time: 5
+
+login: 'ANFNA' 
+pass: 'b38b39ea4e'
+
+name_in_contact_us: 'Maria'
+e-mail: 'masha@mail.ru'
+message: 'Почему не создается пост?!'
+alert_message: "Форма успешно отправлена"
